@@ -1,0 +1,3 @@
+touch newfile.txt
+vi newfile.txt
+cat newfile.txt
